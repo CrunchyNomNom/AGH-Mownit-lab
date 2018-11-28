@@ -6,5 +6,8 @@ float-observation.c
 **checkpoint.ipynb
 /lab2/tests
 **.o
+**.png
+**.pdf
+**.tex
 /lab3/tests
 .Rhistory
