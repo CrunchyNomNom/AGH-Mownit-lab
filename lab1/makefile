@@ -2,7 +2,7 @@ I = float-observation
 J = error
 K = less_error
 
-zad1: Mownit-Lab1.ipynb
+zad1: Untitled.ipynb
 		jupyter-notebook
 
 zad3: $(I).c
